@@ -2,7 +2,7 @@
 #Julio Cesar Gomez Castano
 #marzo 24 de 2023
 
-#variables
+#variables hola cambio
 mi_ip=11.11.24.27
 eq_win=11.11.24.23
 dns1=172.16.2.8 
