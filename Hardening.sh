@@ -1,5 +1,6 @@
 #Hardening Ubuntu
 #JUAN JOSE HURTADO MEJIA
+#Clave Ubuntu Nohelia0276
 #15 de Febrero del 2025
 
 #Variables
